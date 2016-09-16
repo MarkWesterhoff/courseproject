@@ -1,0 +1,1 @@
+Not overly sure yet, although potentially providing some bug fixing or slight changes to LLVM or CLang would be pretty dang cool. Not sure how feasible, but given that I am very interested in compilers, and currently also taking a course focused around the extensibility of LLVM it sounds like a potential option.
